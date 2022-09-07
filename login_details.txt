@@ -1,0 +1,6 @@
+Admin,123,iiitv
+
+
+faculty,100,111
+faculty,796,raj
+Admin,1,megha

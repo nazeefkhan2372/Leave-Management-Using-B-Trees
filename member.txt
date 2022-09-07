@@ -1,0 +1,3 @@
+Faculty,100,Nazeef,07/12/2000,Finance,M,9035574351,nazeef@test.com
+faculty,796,Raj,11/12/2000,Teacher,M,9012322222,raj@test.com
+Admin,001,Megha,09/09/1988,HR,F,8105595503,megha@test.com
